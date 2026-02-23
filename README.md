@@ -16,7 +16,7 @@ Pour me préparer aux sélections d'entrées particulièrement rigoureuses, je m
 
 Le choix de ce sujet s'inscrit dans une stratégie claire d'anticipation et d'évolution de carrière :
 
-* **Avantage concurrentiel :** Les places pour devenir Cybersoldat sont limitées et très convoitées. Maîtriser les bases de l'infrastructure me donnera un avantage significatif lors des tests de sélection.
+* **Avantage concurrentiel :** Les places pour devenir Cybersoldat sont limitées et très convoitées. Maîtriser les bases de la cybersécurité me donnera un avantage significatif lors des tests de sélection.
 * **Passion personnelle :** La cybersécurité est un domaine qui me passionne profondément et dans lequel je souhaite me spécialiser à long terme.
 * **Plus-value professionnelle :** La réussite de cette formation militaire débouche sur un *Brevet fédéral en cybersécurité*, une certification hautement reconnue sur le marché suisse, complétant parfaitement mon futur Bachelor.
 
