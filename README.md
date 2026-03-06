@@ -1,5 +1,4 @@
-# 📄 Rapport de Fin de Projet : Autoformation Cybersécurité 
-(Réseau & Linux)
+# 📄 Rapport de Fin de Projet : Autoformation Cybersécurité (Réseau & Linux)
 
 **Candidat :** Desgalier Michaël  
 **Objectif :** Préparation aux Sélections Cybersoldat de l'Armée Suisse
@@ -57,7 +56,7 @@ J'ai bien respecté les 36 heures prévues, mais j'ai un peu adapté mon plannin
 
 * **Linux :** J'ai passé moins de temps que prévu sur cette partie. Ma logique de programmeur m'a fait gagner beaucoup de temps pour comprendre les scripts et les commandes.
 * **Réseau :** J'ai réutilisé le temps gagné sur Linux pour m'entraîner davantage sur le réseau. Les calculs de sous-réseaux m'ont demandé pas mal d'exercices pratiques pour être bien assimilés.
-* **Organisation :** Les 6 heures de marge que j'avais prévues ont été très utiles pour installer ma machine virtuelle, réviser et passer les examens en ligne.
+* **Organisation :** Les 6 heures de marge que j'avais prévues ont été très utiles pour comprendre comment utiliser la machine virtuelle, réviser et passer les examens en ligne.
 
 ---
 
