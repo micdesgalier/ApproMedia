@@ -15,6 +15,41 @@ Dans la pratique, mon expérience de développeur m'a énormément aidé. Pour l
 
 ---
 
+## 2. Réponses aux 5 questions de contrôle
+
+Voici les réponses expliquées avec mes propres mots :
+
+### Q1 - Réseau : Différence entre TCP et UDP
+
+* **TCP :** C'est un protocole fiable. Il vérifie que chaque donnée envoyée est bien arrivée dans le bon ordre. On l'utilise pour naviguer sur le web ou envoyer des fichiers, car on ne peut pas se permettre de perdre des morceaux en route.
+* **UDP :** C'est un protocole très rapide, mais sans garantie de réception. Il envoie les données directement sans faire de vérifications. On l'utilise pour regarder des vidéos en direct, passer des appels ou jouer en ligne, car la vitesse est plus importante que la perte de quelques petites données.
+
+### Q2 - Réseau : Calcul de réseau et de broadcast
+
+Avec l'adresse IP 192.168.1.50 et un masque /26 (qui découpe le réseau en blocs de 64 adresses), on se trouve dans le tout premier bloc.
+* **Adresse du réseau :** 192.168.1.0 (c'est le début du bloc).
+* **Adresse de broadcast (diffusion) :** 192.168.1.63 (c'est la fin du bloc).
+
+### Q3 - Linux : Gérer les permissions
+
+Pour donner tous les droits au propriétaire (valeur 7), seulement lire et exécuter pour le groupe (valeur 5), et aucun droit pour les autres (valeur 0), la commande est :
+
+chmod 750 script.sh
+
+### Q4 - Linux : Chercher dans les historiques (logs)
+
+Pour trouver le mot "Failed" dans le fichier des connexions et compter combien de fois il y est, on combine deux commandes :
+
+grep "Failed" /var/log/auth.log | wc -l
+
+### Q5 - Transversal : Voir les ports ouverts
+
+Pour vérifier quels ports sont ouverts et prêts à recevoir des connexions sur ma machine, la commande la plus directe est :
+
+ss -tuln
+
+---
+
 ## 3. Investissement en temps
 
 J'ai bien respecté les 36 heures prévues, mais j'ai un peu adapté mon planning en cours de route :
